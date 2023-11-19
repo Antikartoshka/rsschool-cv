@@ -21,7 +21,10 @@ Communicative person with excellent critical thinking and analytical skills. Exp
 - Problem-solving skills  
 
 ## Code examples
-...
+```
+if a=2 and b=2
+then c=8
+``` 
   
 ## Experience
 **Development Bank**  
