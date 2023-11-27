@@ -1,0 +1,51 @@
+body {
+    font-family: tahoma, sans-serif;
+    font-size: 16px;
+    padding: 0;
+    text-align: left;
+    margin: auto; 
+width: 60%;
+    }
+
+.header_class {
+text-align: center;
+}
+
+.photo {
+    height: 200px;
+text-align: center;
+}
+
+.ul_nav { 
+list-style-type: none;
+  margin: 0;
+  padding: 0;
+text-align: left;
+}
+
+.code {
+  font-family: Consolas,"courier new";
+  color: crimson;
+  background-color: #f1f1f1;
+  padding: 2px;
+  font-size: 105%;
+}
+
+
+.footer_link {
+    text-align: left;
+margin: 35px 0px 10px 0px;
+}
+
+.footer_rs_img {
+   height: 30px; 
+margin: 10px 0;
+}
+
+.time {
+  
+margin: 10px 0px;  
+color: grey;
+  
+  font-size: 90%;
+}
